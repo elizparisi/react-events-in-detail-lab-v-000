@@ -12,7 +12,7 @@ export default class DelayedButton extends Component {
   
   render() {
     return(
-      
+      <button handleClick={this.onDelayedClick}
       )
   }
 }
